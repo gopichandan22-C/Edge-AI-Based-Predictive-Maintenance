@@ -1,0 +1,163 @@
+{
+    "accelerators": [],
+    "algorithm_type": "on_board_training",
+    "commit": "HEAD",
+    "compilation_date": "2026-01-30T08:01:50.266906",
+    "compilation_flags": {
+        "float_abi": "hard",
+        "fshort_enums": true,
+        "short_wchar": false
+    },
+    "compilation_str": "{'compilation_dict':{'request_type':'library','api':{'env':'PROD','version':'v3'},'version':{'web_api':{'env':'PROD','version':'v3'},'local_api':{'version':'2026.01.26.2','platform':'win64'},'studio':'5.1.0'},'compilation_flags':{'float_abi':'hard','short_wchar':false,'fshort_enums':true,'use_knowledge':false},'mcu':'cortex-m4_st_stm32l4_nucleo-l476rg','sensor':'','accelerators':[],'request_origin':'manual','algorithm_type':'on_board_training','lib_version':'v3_92c131f','info':{'progression':{'evals_done':20000,'optimization_progress':1.0,'elapsed_time':28957,'cpu_info':{'cpu_nb_cores':12,'cpu_nb_cores_for_optimization':8},'state':'finished'},'max_ram':128000,'max_flash':1024000,'optimization_global_id':'2dbbdddc6e956255002579364ef5d0ce','version':{'local_api':'2026.01.26.2','studio':'5.1.0'},'creation_date':'2026-01-29T03:38:11+00:00'},'class_names':'nominal,anomaly','results':[{'result_id':89,'combination':{'type':'anomaly_detection','name':'ICM','params':{'norm1':2,'norm2':0,'dist':0,'clust_nbr':40,'sensitivity':0.5,'tmp_dir_path':null},'preprocessing_chain':[]},'model':null,'performance':{'performance':{'score':0.983,'main_kpi':0.9941},'memory_usage':{'estimated_ram':3980,'estimated_flash':3948,'estimated_flash_knowledge':null}},'learning_min_lines':261,'knowledge':'eNq9WVmvs9h2_CtRP4eIeYiUB2bMbBsM-CpCjGaeJ3N1_3v2aXX6fHlJTl_JOQ8WLCNcFLVr1drn778NUzZMfZLNc9m9fvv3f_nbf_7rv_zW9mnWgJO__zaXry5qwibrwCkCvkrLNuvmsv86x8B52Q3rEs7lmf1RSMt5CZMoKbL_rlI0DOpJs4IvungCFfyr0PVTi4AT9I9jFBzDf9zgj8P566eWciuX91fl3whQa7Jo6gBW8BtNEybd17UUifz5C0sfrkMaLb_jIf8st-XviKnfIZcA4Vc1m_64AcaA-rDMf1z2592-CPn7b0nWLVNfpr8zAm4dgYPfFHy-sKYSZ23Nh9R8g1Eon_MowJ6tk8cB67VsIL12Fvz9x29fj7W8hy9Mv-VNHy0Y-lWbi-j32t-wL9aTvgVvY56zNOzWdniH0TRFXw--TGv2D3DBFKXlOv_OBMzQDI3COEaQOIYwvz8_wP9FJw4u_QlmYq4l1LEhU3Cc7ZDQBmc5TJ4g9nOYKQKnCRzHYZJmYJr6EzPC_BDzYVLzwmd75m_YzEsDFgispS3bhTa-QH8CM4nADEbCOCCaJMlvzBj1Q8znBidEzBSEzSxFQg7yzkVPRr_sn-IZQUgYoQmURAkSpgHdf2Imf6oNxlYNKg77SMbTMGZyaWZpIi6XD2oDx0kCpQkCY0iUgulvnokfYkbWgPSonK5DE97ue3mDWThG7tXrczzDKAmjOI3QOFiKvyzBn0oDXWiDMaEDuzoWE-0JNnPdvVmTj9GMwDBMMTCFEzDCMAj6yxKEf4h5n2dfNvOabhrMn8PsRbOjXVrG9XM0owQgGmdw8AH4_saM_lQaxMYciZ35uT_amwyfVMBa_uk0n5MGjGAkBQwDIRAKwTH0m-efagPfqmjS8nrDsnhNXe2c2RW7RdD-uSVIoAhCgI7CoCiCM9Rfx4yt0YCuYfgM2a0UiEiYWacohjv7QW0AQQCeUQbQzJDkt238VM_0lttmk1FJQVqQHJj-zLV-4vkf0zNMwwz6Zcs0iWIkQf2ijZ_qmVmYgUkhrNzO3Mk8XRcl9pIK_gF_qA0iMEUwFIzRgGQaw8hveyapH7eUxzQl4ZM6c73MxWdJs5HN7cnnfANGQUgiERwGYYmgEPqvxw3EwEbKDkP9RvhovDzkmS0kEco_6BsEDIIGhSIoSn6tw2-v-zHmBcs0nykcl08LxiTJnesgj6U_6M84icIYgsE4jYHejf11ns_57npT6NxtOQaZXwPxWT3xsfxk3ACNEMMxmACapijim2f6h5jDzQvQyn4L_pNqpfr1hlmVe8be5zADvCAhYRQFghJC0t88_3QJEotPtkSITnqKtP705GY2n5lT-aCcGRCOSIYEyR9kOvg7ImE_lvO6eV4SFpl_3TYPFbqAraV3_sG4AYNmQoABBUgE8E3Qf70NEuvSeWQY0D6a-5ev6YFzPaWNPmkbNAHGQRA5gOOh34EfQX4ImTJ6XVfzqHoeOpFniw6zuFhC1QddA3DLIBRYgCjwOuK7c6M_7dzvDZLaLfQU7dl5oXhDZtZ4POXig-mZZgiaBl6HUChF_MIzjv0QM2SXnvfYznSo0zDTTgRnobnJhs-5Bk1_NRTQtDGcwoBEvrXxU8yovXXePUcRrmIQjCp3mL3D2_H4oJwx0FJQDEcwMBaivwyw-E9tA16tGaTnvMmDqrSHlodZtlZp4XPpmWIYjCJonPzal4HRX7og-tM1OG8U6m0Q0hA-vSVXMHQnSnU8P2h1oGHDNMIQCBAJiXxjxn_qG-c61jKbi34OUl2jnUfAdhYebZ_b-MJgmvzaigEKIREUuMh3T_nplDLvN8aGVjlyOvcwhwN4XZ214-cS_1fKB8EIowDdGI1-t8Gf7seg1n2hbrmuUJFecQ6y42xHbRj0wSEFhymAG6VQDENQ7J_ogpB5p6YgXMK7okT5fsYwu6xYkr0-aHUIjZL0l0TAEf1PDFaQvXpyn0O-1_mJdrOdgL2rPk59zp5JHIcJMFuBIRYDIkH_cqjDjMmcLmE3mWRHK3eGCthUjDTxg9mZpBgSBkkUAZ_wL_sEP4ZsnhR12SwzLQKSR5IXzdrCBhefUzOBoCDMYSSCwMjXiPJL3v9p3DcOgfI7_IxTkdimtUhYw6Iq83NqxoEoAMUUkDJF4xSC_2XXoMyWjANbeGgYClnnG5gz3lqXzwUkGEdR_EvJMJip4F98DvvxXjnyju1d4q4Cq4kLk7w-ta__7Q0_hEbOpL3YEAnjg0VKLVfNLM_3cPO5RPGXIaImobdWOHm-ZU9KjvkBW6jv4vicRhEw09EMioCpFAWDE_HX1xU2UxP9gFjMprZSsD1hZlettfv_F1r_83_8v_J_keXDix4vM-LW9iEMaue9xsE1qUhSIsI8sLlwj9tT5eqbiDQmH0D8KRWXZpQ0lS-hQ1cHr1HFumnEEdb8udBWaQqT48idMFOgELHnkMHslLLTlUKrE6fUe9fR-3MQw0egoYYiYH54QfoRjQwmzNvtNZzpJbV6q0GuzI3izw5aXjV6nlyL2JxTmyMp9B5UOa8MDuLDPpfzsQbGWb5vfac_9e1Go_18qsyjSNeZ0afQJ56QvtB2HBUC0tPTYZvBY9ztGVarar-GPj-yiaVy3hAiV3jFk6elYSwFjVAl6OBRqDce7MbIRtq5VLUa3UuebyycX40pV8hJC-fjmOZhPZb8GnlbjuCWY8RJwWD44-J4XST4uRiKAJ0QRIWnRFx1eKNxqN0eFs8keXf63B1xLxCk-G7z4k3eo2xiSCme8knWslwwGEEF_cQa2Iy8j3DsFvJtedK8uTuq_pYdH9VQPkiLZk-Pl5UTtV401ymtXu92QupRnjNrV6tmh4rVViO7ruPbuhpxUe2V3h3uc0QWWwrWshaCk2V66tmwb_j6dArTv1JWKMz-5LzF5h7MNx6CXu5oXJjYi55i3TXzGLkuDBfpxMFQeXgBZDP6sh8IGfvvzbvqTifd4v4pvvDxDuPFKsZU1I15Ua-0o9HMCEv10c-1ajUFmOSEW7Vgwbgbx0C7nGGfNH6RzFA_kPskDtdAg8WXdanImPdIlPGFiICN-oh1Oq14SX4TCMtTAzrfUChiSTtPS6XLSp8S7OFI9VXPu9PtPYY0dOeijnrTH3YweH1Jer1mBLyhdrCgO5PSXnxuTjgfbjZI9A9LyqVnu7MeeUvLoRcfUnTNXFIebpTrpoNyARTnsnC7GabsWOu4BvqJq3BUF5A6uWUbKyhWnTY7cNuVuUrypN4lmliHmbhs8oubrxJLNFF68w8-og-vKi3yIaK-_MQ4Vi5uafF64oR5Sejat94mJx9hjcvOAxoKG5EzzaHyhFkHuV6Mp15TZ9FzTNm7KxeV2ybGZTm9Z-OQqkiLLOtlOrUP6Y5lxC3KpnXdpDZq91XXsOUFJU3zOd4eXU2fh0dcpnMhxpt7atfbdcIuucQKCGquxRkSRTjzcCufdf4Yzcp7RmKBVoZMFuGZRON4tri0uYo_oTFgRNEpZamFzuma4bWaQYWKsXyp2jeH-NJRF6Z9UVXoOs7ihEhBkNwYEr_T_mNWC7WMIK622JFYnGGfnmaLvUzJLzZCUaBWTpV3UfSK9kRl0gDMGAzcS50mtgfxCB72OOF3ocVLm3ynq8oTj_qSVfqjZVbx9uDLfQgaWMvHukYFT3XdKbiZo36544Htym2QzhnPRYUv20WjYyU7UGn15lO1jrh7zl_s8c6WDJLfyYuLPoKpoJRShXGLWW_CtsrzVK3WS_Vfz9hcT8nOCk7I6pB-m8aAvkWaTJprCzNXIde70FgUOl4ViYJhZWSrXKCUNkOVggzOnrybkKwlZmJ3DM-RO6YZXUta5bpHB5dxUzbpJOfXb2HTm7jD4JJKPKoM8rb2JvOJ4uc4OcmZS8aLsc5N6l1atFUhL_RFF_Jmo4TJ4R_7kV5zAPEt4TorsQfmJMaptLKNxbPIGrfOZw4vghc5oCn2Ws1qtpgYNkgVJpFBG0ns8nx11uS_uXckHZE8DHsXIC4ckSccswc6GnSF8hFOHLwu0hyen3fyhY5HeHZleURIFt0Uu4GlN8y96WZhKufBkkmyzaa07FiweIy4vH2xsrltt2NrIUpILXCMrbc9taAWrQjvMrxq53o2NFOEB56i0ys_3nrnJdxmde8AvCEFumoopWhNFFxi5ByIy8MOXrhDA-8K1HK7WcsggbV12y1iWzAeytkXFjsOP1LDbePB6xweT1N-u-G-VrcnfXNXyrDLREH7k36p8hbS8kk29d4B0RYlLcgS2u77Nmj-Kx9nDyjO6Csz4_oYf3il4c-yUHHebaXwO4U_6XuV1oPhVwFuhK8JDWhd8JItwklXYvzXy6lUqrpfVo1jxN4tjctrOfeITx8xbdz0MniY7Fm10zm5af4UMGd_4HVfaSVoiWYz8RSxGlBWYonde4ssem_I70PutOpo8u3-9n7Tqe_CmqSRKAhXmtClmN07GFN1l9PZhSavYlLHasdsXkaMhNnVj_vav1Rzyb7r3SZZiKhAd9upDl1Y0cJQUjmWTvdUcbquk5IJjtM-W17Gq36iVXZg0LulwBuMgubTc41Kw09NvRVt9HKs1C23CbmV5rQOz9K5zAJ-UVLaTB_1m77fMCi76iJWr5g8EnG-zeiVn-LVGB0Vv5T2qFIGdg77gHjNhewrrrkwByqfV_XSFQijWbB5t1G53Dm7XRdCoZFe8F4B8B_gbWTxEJAuwIKE1F_5jYF52vKsXh1hOXK4tTyvpsM97vusmRB0luTCPKrTlXKSb4nZEki7cHwBuszIAd9DCZOkgU_JxFbuV31UV0haXXGf63skyXh6rm3sovI2AAsjeG22KzidNzXEbWW6hdzkBTSzPttLI7TWRLd-4IgQd9SWtzgYthPPMEd60PTUtNXBC9qTp-EI2x7W7uaZtPCanguuuXRkZHvukAmvofng2rboIRte0dY2S_N5EVyVOK6XeuIULqzZ2BmbPlkpLNzPk6qdJ47dehR5XhIdQ98PxXzgyRh5Bo7HLwPecaiAsHS5v7bSfVBt2U8oPe4EfPctZZRtnDI1kUfpR91nC8bCd0iAXCLqnHCZ5liPg-7C-69uKw1cT0SjtWG-YO5hIGFIhu1ZeFpRY0zXB3oISripFOjZjgZb5qOPO1FT2lfurCgS2Ji7EmEMpklNkHGsVe-6vd7a1RmxSy1ld8TMiPI9wDkCPCiY5b2kJt5iz64gwnqzIDnlaqBB5nUV94mYpEqFllW6HdJiKnkK5beZbCqMXYYXuuyD89aFd8ywpo6gvSgT53bJqFIfzpy5aZa25zs0PviHGYYcuPMdE0tXjZHX4RJZQGvbFZVn760Zq_lQ3vKWvc_SpLcynJe6TCIMI7YqUxBiXCh7H7DVn-6yIkpMe4Q8E15LREJZIA5-fpj1a3FcQXEo09Pk-l1L9uhd-GQS4Li_8MEzyW-UxSHDTrTNArWdddtI032e1NHvqxxuOwiHdwRJnkl6B9OOgDwuvItUqsY9KD4Ug8Zva1Kzxc3ZT3nVp_z9nGXdxNyXumTA8d2uV8vRObaoO_l-6XtVH4zb4EmtFGYFaAVX1rcgLLqEoZtqoeGw09Il2Nhc-jy1A-ramVZvNG-xiDa-dx5Bt23popUV9HqMF3w8ZuWa7o0ZnqY3HyuEbJpo5yTkPRPPFZ_3A8KjUB_nHcaSsgtSk7BHiUbFdWPfjkxYu54TCuZ1W60pPHMgXTabB2Gcl6LLbcUG3eG227YKlZfu6rnQGbmK1XAu6TVvHzW6xtRsdJNpEz5up36PqucAe_HpxTOZ8rWv7XcXXvJ97fgb3i2ZAxcig4-z-_QqMqy9UbnRhSUteWS4HKK9_FqpZyNS_UhArqDntLGAtRyFvdDLDhzpFb_rkGveiTsYnq_qQWtP4dV58FR-w-bR3JhxHZZpTJoCcqE8aIKkpiBpujKiDzoeqhMEe8IHkVeFU6pG2r8fxJBJ5TvLraVijXcQu4QF97kzqHhnXy4sN5Bxb6RJwblZSygUvC6cmC9xvx-Qc1TIQdLNY2bMe5JTK10vZ5jv0ZpGjl7JseuPnRTufHNpKML4fePlP_7voZai4f97rP3HP_4L2j3W_Q==','knowledge_dat':null,'commit_tag_used':'v3_92c131f'}],'data':{'nb_cols':3,'nb_lines':[[{'file_type':'nominal','nb_lines':100},{'file_type':'nominal','nb_lines':100},{'file_type':'nominal','nb_lines':100},{'file_type':'nominal','nb_lines':100},{'file_type':'nominal','nb_lines':100},{'file_type':'nominal','nb_lines':100},{'file_type':'nominal','nb_lines':100},{'file_type':'nominal','nb_lines':100},{'file_type':'nominal','nb_lines':100},{'file_type':'nominal','nb_lines':100},{'file_type':'nominal','nb_lines':100},{'file_type':'nominal','nb_lines':100},{'file_type':'nominal','nb_lines':100},{'file_type':'nominal','nb_lines':100},{'file_type':'nominal','nb_lines':100},{'file_type':'nominal','nb_lines':100},{'file_type':'anomaly','nb_lines':100},{'file_type':'anomaly','nb_lines':100},{'file_type':'anomaly','nb_lines':100},{'file_type':'anomaly','nb_lines':100}]]},'toolchain_type':'gcc','only_emulators':false},'sign':305655,'license_key':'***'}",
+    "compile_emulators": true,
+    "compile_library": true,
+    "data": {
+        "nb_cols": 3,
+        "nb_lines": [
+            [
+                {
+                    "file_type": "nominal",
+                    "nb_lines": 100
+                },
+                {
+                    "file_type": "nominal",
+                    "nb_lines": 100
+                },
+                {
+                    "file_type": "nominal",
+                    "nb_lines": 100
+                },
+                {
+                    "file_type": "nominal",
+                    "nb_lines": 100
+                },
+                {
+                    "file_type": "nominal",
+                    "nb_lines": 100
+                },
+                {
+                    "file_type": "nominal",
+                    "nb_lines": 100
+                },
+                {
+                    "file_type": "nominal",
+                    "nb_lines": 100
+                },
+                {
+                    "file_type": "nominal",
+                    "nb_lines": 100
+                },
+                {
+                    "file_type": "nominal",
+                    "nb_lines": 100
+                },
+                {
+                    "file_type": "nominal",
+                    "nb_lines": 100
+                },
+                {
+                    "file_type": "nominal",
+                    "nb_lines": 100
+                },
+                {
+                    "file_type": "nominal",
+                    "nb_lines": 100
+                },
+                {
+                    "file_type": "nominal",
+                    "nb_lines": 100
+                },
+                {
+                    "file_type": "nominal",
+                    "nb_lines": 100
+                },
+                {
+                    "file_type": "nominal",
+                    "nb_lines": 100
+                },
+                {
+                    "file_type": "nominal",
+                    "nb_lines": 100
+                },
+                {
+                    "file_type": "anomaly",
+                    "nb_lines": 100
+                },
+                {
+                    "file_type": "anomaly",
+                    "nb_lines": 100
+                },
+                {
+                    "file_type": "anomaly",
+                    "nb_lines": 100
+                },
+                {
+                    "file_type": "anomaly",
+                    "nb_lines": 100
+                }
+            ]
+        ]
+    },
+    "learning_min_lines": 261,
+    "lib_limited": false,
+    "library_id": "697c656ef10ae058d4db27e2",
+    "library_md5sum": "9408a35b389c032e14e5c8899c5eb3ff",
+    "mcu": "cortex-m4_st_stm32l4_nucleo-l476rg",
+    "mcu_cpn": "NUCLEO-L476RG",
+    "mcu_display_name": "NUCLEO-L476RG - STMicroelectronics",
+    "mcu_family": "STM32L4 Series",
+    "mcu_group": "demo",
+    "mcu_type": "cortex-m4",
+    "mcu_vendor": "STMicroelectronics",
+    "optimization_info": {
+        "creation_date": "2026-01-29T03:38:11+00:00",
+        "max_flash": 1024000,
+        "max_ram": 128000,
+        "optimization_global_id": "2dbbdddc6e956255002579364ef5d0ce",
+        "progression": {
+            "cpu_info": {
+                "cpu_nb_cores": 12,
+                "cpu_nb_cores_for_optimization": 8
+            },
+            "elapsed_time": 28957,
+            "evals_done": 20000,
+            "optimization_progress": 1.0,
+            "state": "finished"
+        },
+        "version": {
+            "local_api": "2026.01.26.2",
+            "studio": "5.1.0"
+        }
+    },
+    "performance": {
+        "memory_usage": {
+            "estimated_flash": 3948,
+            "estimated_flash_knowledge": null,
+            "estimated_ram": 3980
+        },
+        "performance": {
+            "main_kpi": 0.9941,
+            "score": 0.983
+        }
+    },
+    "request_type": "library",
+    "sensor": "",
+    "studio_info": {
+        "local_api": {
+            "platform": "win64",
+            "version": "2026.01.26.2"
+        },
+        "studio": "5.1.0",
+        "web_api": {
+            "env": "PROD",
+            "version": "v3"
+        }
+    },
+    "toolchain_version": "arm-none-eabi-gcc (Arm GNU Toolchain 13.2.rel1 (Build arm-13.7)) 13.2.1 20231009",
+    "user_info": {
+        "company": "Student",
+        "email": "manurgowda0724@gmail.com",
+        "first_name": "Manu",
+        "last_name": "S R"
+    }
+}

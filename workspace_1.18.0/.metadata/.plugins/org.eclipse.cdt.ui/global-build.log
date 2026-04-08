@@ -1,0 +1,49 @@
+17:14:53 **** Incremental Build of configuration Debug for project p32 ****
+make -j12 all 
+arm-none-eabi-size  p32.elf 
+   text	   data	    bss	    dec	    hex	filename
+  40688	    468	   6340	  47496	   b988	p32.elf
+Finished building: default.size.stdout
+ 
+17:15:06 **** Incremental Build of configuration Debug for project p32 ****
+make -j12 all 
+arm-none-eabi-size  p32.elf 
+   text	   data	    bss	    dec	    hex	filename
+  40688	    468	   6340	  47496	   b988	p32.elf
+Finished building: default.size.stdout
+ 
+17:15:22 **** Incremental Build of configuration Debug for project p32 ****
+make -j12 all 
+arm-none-eabi-size  p32.elf 
+   text	   data	    bss	    dec	    hex	filename
+  40688	    468	   6340	  47496	   b988	p32.elf
+Finished building: default.size.stdout
+ 
+17:16:01 **** Incremental Build of configuration Debug for project p32 ****
+make -j12 all 
+arm-none-eabi-size  p32.elf 
+   text	   data	    bss	    dec	    hex	filename
+  40688	    468	   6340	  47496	   b988	p32.elf
+Finished building: default.size.stdout
+ 
+17:16:23 **** Incremental Build of configuration Debug for project p32 ****
+make -j12 all 
+arm-none-eabi-size  p32.elf 
+   text	   data	    bss	    dec	    hex	filename
+  40688	    468	   6340	  47496	   b988	p32.elf
+Finished building: default.size.stdout
+ 
+17:17:10 **** Incremental Build of configuration Debug for project p32 ****
+make -j12 all 
+arm-none-eabi-size  p32.elf 
+   text	   data	    bss	    dec	    hex	filename
+  40688	    468	   6340	  47496	   b988	p32.elf
+Finished building: default.size.stdout
+ 
+17:31:05 **** Incremental Build of configuration Debug for project p32 ****
+make -j12 all 
+arm-none-eabi-size  p32.elf 
+   text	   data	    bss	    dec	    hex	filename
+  40688	    468	   6340	  47496	   b988	p32.elf
+Finished building: default.size.stdout
+ 

@@ -1,0 +1,4 @@
+../Core/Src/bmp.c:26:13:BMP_Read	32	static
+../Core/Src/bmp.c:37:13:BMP_Write	32	static
+../Core/Src/bmp.c:49:6:BMP180_Init	40	static
+../Core/Src/bmp.c:70:7:BMP180_ReadPressure	56	static
